@@ -181,23 +181,23 @@ streamlit run frontend.py
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## Home Page
+### 🏠 Home Page
 
-> *(Add screenshot here)*
-
----
-
-## Blog Generation
-
-> *(Add screenshot here)*
+![Home Page](Assets/hero.PNG)
 
 ---
 
-## Generated Blog
+### ✨ Features
 
-> *(Add screenshot here)*
+![Features](Assets/features.PNG)
+
+---
+
+### 📚 Generated Blog
+
+![Generated Blog](Assets/generated_blog.PNG)
 
 ---
 
